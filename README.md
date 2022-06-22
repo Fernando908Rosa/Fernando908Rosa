@@ -4,9 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div>
-  <a heref="https://github.com/Fernando908Rosa">
-  <img height="180em" src="https://github-readme-stats.vencel.app/api?username=Fernando908Rosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src='https://github-readme-stats.vencel.app/api/top-langs/?usernameFernando908Rosa&layout-compact&langs_count=16&theme=dracula"
-</div>    
-  
+
