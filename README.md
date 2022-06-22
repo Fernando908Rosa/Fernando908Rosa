@@ -1,5 +1,5 @@
-Bem-vindo 
-olá sou Frenando da Rosa.
-Olá, desenvolvedor de software, é com grande satisfação que tê-lo em minha página do GitHub, espero que goste dos repositórios que encontra aqui, fique a vontade para baixar e até contribuir com ideias de melhorias, pois o trabalho em equipe é uma das coisas que mais motivam eu, sabendo dessa fase que todos estamos vivendo, sabemos que o distanciamento é necessário, mas nós Devs devemos ficar juntos, então fique a vontade, qualquer dúvida estou a disposição, é só entrar em contato que te ajudarei no que for necessário! !!
+Welcome!
+I'm Fernando da Rosa - 💻
+Hellow, Software developer, it is with great satisfaction to have you on my GitHub page, I hope you like the repositories you find here, feel free to download and even contribute with ideas for improvements, as teamwork is one of the things that most motivate me, knowing this phase that we are all living in, we know that distance is necessary, but we Devs must stay together, so feel free, any questions I am available, just get in touch and I will help you in whatever is necessary!!!
 
 
