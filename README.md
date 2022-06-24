@@ -4,4 +4,9 @@ Hellow, Software developer, it is with great satisfaction to have you on my GitH
 
 <img align="right" width="400" height="300" src="https://github.com/Fernando908Rosa/Fernando908Rosa/blob/main/img/animation.gif">
 
+<div>
+  <a href="https://github.com/Fernando908Rosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando908Rosa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
