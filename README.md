@@ -17,12 +17,6 @@ Hellow, Software developer, it is with great satisfaction to have you on my GitH
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  
- 
- 
- 
- 
- 
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 
